@@ -1,1 +1,1 @@
-# Deep-Learning-Model-for-Summarizing-Amaozn-Reviews
+# Data can not be added to repositoty because of its size
